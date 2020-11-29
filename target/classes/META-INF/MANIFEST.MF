@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: room-booking-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Niks
+Implementation-Vendor-Id: com.roombooking
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/room-booking-service
+Created-By: Maven Integration for Eclipse
+
